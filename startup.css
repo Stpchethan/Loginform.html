@@ -1,0 +1,43 @@
+* {
+  color: rgb(231, 145, 39)8);
+}
+
+.box1 {
+  padding: 0px;
+
+  align-items: center;
+  padding-bottom: 2vh;
+  justify-content: space-around;
+  border-radius: 22px;
+  align-items: baseline;
+  color: aqua;
+  padding: 10px 100px 10px 300px;
+}
+.box2 {
+  padding-bottom: 2vh;
+  border-radius: 22px;
+  padding: 10px 100px 10px 300px;
+}
+.box3{
+  padding-bottom: 2vh;
+  border-radius: 22px;
+  justify-content: center;
+  padding: 10px 100px 10px 300px;
+  
+}
+
+
+.box4{
+  padding-bottom: 2vh;
+  border-radius: 22px;
+  position: relative;
+  padding: 10px 100px 10px 300px;
+}
+
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg");
+}
+  .potti placeholder{
+    font-size: 4px;
+    color: solid black;
+  }
